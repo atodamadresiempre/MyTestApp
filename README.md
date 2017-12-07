@@ -1,2 +1,2 @@
 # MyTestApp
-Test app for GitHub
+Test app for GitHub. I just edited the README.md file.
